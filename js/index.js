@@ -35,7 +35,5 @@ new fullpage('#fullpage', {
 });
 
 
-//top 버튼
-
 
 
